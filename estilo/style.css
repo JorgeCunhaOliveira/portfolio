@@ -24,7 +24,7 @@ main{/*Com os comando max e min no width eu gero responsividade na página com o
 header{
     background-color: var(--cor01);
     color: white;
-    height: 220px;
+    height: 280px;
     width: 100%;
 }
 header > h1{
