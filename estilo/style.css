@@ -105,22 +105,20 @@ footer{
 }
 p.rodape {
     color: black;
-    padding: 7px;
+    padding: 3px;
     margin: auto;
-    position: relative;
-    bottom: 20px;
-    height: 0px;
+    font-size: 80%;
 }
 footer > div{
     text-align: right;
 }
 a.icone{
-    padding-right: 5px;  
+    padding-right: 3px;  
     position: relative; 
-    top: 10px;
+    top: 0px;
 }
 .ico{
-    width: 2.5%;  
+    width: 3%;  
 }
 .logo{
     position: relative;
