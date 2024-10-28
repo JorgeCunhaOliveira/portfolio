@@ -37,6 +37,7 @@ header > h1{
 header > h4{
     margin: auto;
     padding-top: 30px;
+    padding-bottom: 30px;
     font-size: 1.1em;
     max-width: 500px;
     text-align: center;
@@ -49,7 +50,7 @@ nav{
     height: auto;
     width: auto;
     padding: 5px;
-    border-top: 1px solid black;
+    border-top: 1px solid white;
 }
 nav > a{
     text-decoration: none;
@@ -101,7 +102,7 @@ footer{
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor04));
     height: auto;
     padding-top: 20px;
-    border-top: 1px solid black;
+    border-top: 1px solid white;
 }
 p.rodape {
     color: black;
